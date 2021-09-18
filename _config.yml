@@ -48,9 +48,12 @@ linkedin_username: alexander-kerchum-7532b75b
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am Alex; this page is a work in progress.
-  My team nick-named me 'lint-roller'
-
+  I am passionate about doing software development the right way: this means striking the right balance between future-proofing and keeping it simple. I love getting into the flow and making magic on my screen. I believe a little bit of research and questioning can lead to a drastically better product, and a healthier relationship between engineering and product.
+  I love solving harder problems; it helps me express creativity and artisanship.
+  I value concise, honest, and open communication. This includes accepting criticism without taking it personally, and acting on it to improve myself and my work. 
+  I generally learn technical topics and domain knowledge quickly. I return to exceptionally challenging topics over and over again, improving my capability in those areas over time.
+  I became a certified scrum master when I became a team lead and I feel that the subjects learned during that, coupled with actual experience leading, have made me a very effective developer advocate. I think this is absolutely essential for a healthy team.
+  I enjoy imparting new knowledge on others: sometimes this means showing my team something cool I recently learned, and other times it might mean mentoring another engineer in an area where I am an expert.
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -59,12 +62,23 @@ content:
         title: Autosoft DMS
         link: autosoftdms.com
         # link_text: boringcompany.com
-        sub_title: Senior Software Engineer
-        caption: November 2018 - Present
+        sub_title: Senior Software Engineer/Team Lead (CSM)
+        caption: 2018 - Present
         quote: >
           Autosoft is an innovative technology platform that has been recognized as the All-Time Most Recommended DMS.
         description: | # this will include new lines to allow paragraphs
-            .NET, Angular, AngularJS, DevOps
+          Responsibilities include: Maintaining and building a multi-tenant <mark>SaaS</mark> application used by thousands of organizations across the United States.
+          Helping the organization transition from <mark>SOA</mark> to a <mark>Microservice</mark> architecture.
+          Facilitating a culture of collaboration in several teams across the platform.
+          Advocating on behalf of other engineers to reduce stress and improve productivity.
+          Leading platform-wide technical initiatives and resolving tech-debt.
+          Coordinating implementation efforts within and across teams.
+          Teaching and advocating for true software craftsmanship across the organization.
+          Selected accomplishments:
+           - Transitioned the development organization from <mark>SVN</mark> to <mark>Git</mark> (several repositories with tens of thousands of commits retained in history)
+           - Resolved several Severity 1 outages in an individual and team oriented setting.
+           - Lead the effort to transition from <mark>AngularJS</mark> to <mark>Angular</mark> (multiple approaches taken)
+           - Leadership role in evolving services into <mark>microservices</mark>
       - layout: left
         title: Youngstown State University
         link: ysu.edu
