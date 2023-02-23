@@ -47,7 +47,7 @@ linkedin_username: alexander-kerchum-7532b75b
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
   I am passionate about doing software development the right way: this means striking the right balance between future-proofing and keeping it simple. I love getting into the flow and making magic on my screen. I believe a little bit of research and questioning can lead to a drastically better product, and a healthier relationship between engineering and product.
   I love solving harder problems; it helps me express creativity and artisanship.
   I value concise, honest, and open communication. This includes accepting criticism without taking it personally, and acting on it to improve myself and my work. 
@@ -59,11 +59,24 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Upstart
+        link: upstart.com
+        # link_text: boringcompany.com
+        sub_title: Senior Software Engineer
+        caption: 2022 - Present
+        quote: >
+          Upstart's mission is to enable effortless credit based on true risk.
+        # description: |
+        #   Responsibilities include:
+        #   
+        #   Selected accomplishments:
+        #    - 
+      - layout: left
         title: Autosoft DMS
         link: autosoftdms.com
         # link_text: boringcompany.com
         sub_title: Senior Software Engineer/Team Lead (CSM)
-        caption: 2018 - Present
+        caption: 2018 - 2022
         quote: >
           Autosoft is an innovative technology platform that has been recognized as the All-Time Most Recommended DMS.
         description: | # this will include new lines to allow paragraphs
