@@ -78,7 +78,7 @@ content:
           Selected accomplishments:
            - Advocated for <mark>containerizing</mark> an existing application and played a critical role in delivering on that initiative, resulting in vast and immediate improvements for developer experience and runtime performance
            - Worked with Kubernetes to deploy multiple containerized services; <mark>autoscaling</mark>, <mark>ephemeral environments</mark>, functional testing, CI using <mark>Jenkins</mark>
-           - Focused on <mark>observability</mark> when working on large initiatives: <mark>distributed tracing<mark> when working on performance issues, <mark>coverage</mark> reports when exacting large amounts of code into a <mark>microservice</mark>, <mark>structured logging</mark> to easily triage production issues, <mark>metrics</mark> for running pods to assess cost and right-sizing
+           - Focused on <mark>observability</mark> when working on large initiatives: <mark>distributed tracing</mark> when working on performance issues, <mark>coverage</mark> reports when exacting large amounts of code into a <mark>microservice</mark>, <mark>structured logging</mark> to easily triage production issues, <mark>metrics</mark> for running pods to assess cost and right-sizing
            - Cross-team collaboration and coordination for large initiatives
       - layout: left
         title: Autosoft DMS
